@@ -48,7 +48,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Project/Kanban Board.md",
+                "file": "Tasks/Kanban Board.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -224,15 +224,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "01362aa97db26248",
+  "active": "d2680005b1c880a9",
   "lastOpenFiles": [
+    "Tasks/Task ของ Chatchadaporn.md",
+    "Tasks/Task ของ Teerajet.md",
+    "Tasks/Kanban Board.md",
     "Templates/Untitled.md",
     "Tasks/Task ของ Chayanisa.md",
-    "Project/Kanban Board.md",
-    "Tasks/Task ของ Teerajet.md",
     "Tasks/Task ของ Supachai.md",
     "Tasks/Task ของ Jansinee.md",
-    "Tasks/Task ของ Chatchadaporn.md",
     "conflict-files-obsidian-git.md",
     "Templates",
     "Tasks/Untitled.md",
