@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/Untitled.md",
+                "file": "Tasks/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -205,8 +205,10 @@
   },
   "active": "d8ffcf8e21396a27",
   "lastOpenFiles": [
-    "Project/Untitled Kanban.md",
+    "Templates/Untitled.md",
+    "Tasks/Untitled.md",
     "Reports/Untitled.md",
+    "Project/Untitled Kanban.md",
     "Tasks/ยังไม่ได้ตั้งชื่อ.md",
     "Templates",
     "Reports",
