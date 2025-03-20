@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edcaf967229aaaee",
@@ -190,8 +191,9 @@
   },
   "active": "504f4f1d8642e198",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "README.md",
     "Project/Untitled Kanban.md",
+    "Untitled Kanban.md",
     "Project"
   ]
 }
