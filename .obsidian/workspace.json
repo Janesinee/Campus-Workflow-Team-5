@@ -32,21 +32,14 @@
             "id": "d8ffcf8e21396a27",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Reports/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -210,10 +203,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e93362690a46e179",
+  "active": "d8ffcf8e21396a27",
   "lastOpenFiles": [
-    "Tasks/ยังไม่ได้ตั้งชื่อ.md",
     "Project/Untitled Kanban.md",
+    "Reports/Untitled.md",
+    "Tasks/ยังไม่ได้ตั้งชื่อ.md",
     "Templates",
     "Reports",
     "conflict-files-obsidian-git.md",
