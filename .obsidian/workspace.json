@@ -41,9 +41,30 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "01362aa97db26248",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled Kanban"
             }
           },
           {
@@ -134,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled Kanban"
             }
           },
           {
@@ -162,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Project/Untitled Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Untitled Kanban"
             }
           },
           {
@@ -201,11 +224,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e93362690a46e179",
+  "active": "01362aa97db26248",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Templates/Untitled.md",
+    "Templates",
+    "Tasks/Untitled.md",
+    "Tasks",
     "Reports/Untitled.md",
     "Project/Untitled Kanban.md",
-    "conflict-files-obsidian-git.md",
     "Reports",
     "tasks/ยังไม่ได้ตั้งชื่อ.md",
     "tasks",
