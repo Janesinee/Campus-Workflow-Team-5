@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Task ของ Chayanisa.md",
+                "file": "Tasks/task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task ของ Chayanisa"
+              "title": "task"
             }
           }
         ]
@@ -183,17 +183,18 @@
   },
   "active": "0462c76f7c4d4913",
   "lastOpenFiles": [
-    "Tasks/Task ของ Chayanisa.md",
-    "Tasks/Task ของ Chatchadaporn.md",
-    "Reports/Untitled.md",
-    "Templates/Untitled.md",
-    "Tasks/Task ของ Teerajet.md",
+    "Reports/Chayanisa - แด่หัวใจที่งดงามที่ถูกหลงลืม.md",
+    "Tasks/task.md",
     "Project/Kanban Board.md",
-    "Tasks/Task ของ Jansinee.md",
+    "Tasks/Task ของ Teerajet.md",
     "Tasks/Task ของ Supachai.md",
+    "Tasks/Task ของ Jansinee.md",
+    "Tasks/Task ของ Chatchadaporn.md",
+    "Tasks/Task ของ Chayanisa.md",
+    "Untitled.md",
+    "Templates/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Templates",
-    "Tasks/Untitled.md",
     "Tasks",
     "Reports",
     "tasks/ยังไม่ได้ตั้งชื่อ.md",
