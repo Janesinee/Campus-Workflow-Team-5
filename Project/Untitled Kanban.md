@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] สร้างโฟลเดอร์: Tasks, Reports, Templates
 - [ ] ตั้งค่าแท็ก: #workflow, #process, #git, #interview, #collab
 - [ ] สร้างกระดานที่มีคอลัมน์: To Do, In Progress, Review, Done
+- [ ] บันทึกเป็น `YYYY-MM-DD_library-summary.md` พร้อมแท็ก `#workflow #library`
 - [ ] เพิ่มการ์ดสำหรับแต่ละงานที่คุณจะต้องทำให้เสร็จ
 - [ ] เยี่ยมชมห้องสมุดหรือใช้ทรัพยากรออนไลน์
 - [ ] หาหนังสือมาคนละ 1 เล่ม
@@ -21,7 +22,6 @@ kanban-plugin: board
 	- ชื่อเรื่องและผู้เขียน
 	- แนวคิดหลัก
 	- เกี่ยวข้องกับการจัดการกระบวนการทำงานอย่างไร
-- [ ] บันทึกเป็น `YYYY-MM-DD_library-summary.md` พร้อมแท็ก `#workflow #library`
 
 
 ## In Progress
