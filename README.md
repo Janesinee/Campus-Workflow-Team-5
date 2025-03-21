@@ -8,10 +8,10 @@
 ### 2. **Chayanisa Kongneing**
    - Role: ผู้นำด้านเอกสาร
 
-### 3. **Chatchadaporn Pumthurean**
+### 3. **Supachai Thaweekoonpoonsap**
    - Role: นักวิจัยภาคสนาม
 
-### 4. **Supachai Thaweekoonpoonsap**
+### 4. **Chatchadaporn Pumthurean**
    - Role: ประกันคุณภาพ
 
 ### 5. **Teerajet Chanpha**
