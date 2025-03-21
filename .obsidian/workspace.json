@@ -83,9 +83,23 @@
               "icon": "lucide-trello",
               "title": "Kanban Board"
             }
+          },
+          {
+            "id": "1fcac615a744a351",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
+                "bFile": "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,12 +259,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9eae85d0b8c3e8e7",
+  "active": "1fcac615a744a351",
   "lastOpenFiles": [
-    "Reports/2025-03-20_library-summary.md",
-    "Reports/Teerajet - ผมจะเฝ้ารอฆาตกรที่ร้านหนังสือแห่งความทรงจำ.md",
+    "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
     "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
+    "Reports/Teerajet - ผมจะเฝ้ารอฆาตกรที่ร้านหนังสือแห่งความทรงจำ.md",
+    "Untitled.md",
     "Tasks/Kanban Board.md",
+    "Reports/2025-03-20_library-summary.md",
     "Tasks/task.md",
     "conflict-files-obsidian-git.md",
     "Tasks/Task ของ Chatchadaporn.md",
@@ -262,7 +278,6 @@
     "Templates",
     "Tasks/Untitled.md",
     "Tasks",
-    "Reports/Untitled.md",
     "Reports",
     "tasks/ยังไม่ได้ตั้งชื่อ.md",
     "tasks",
