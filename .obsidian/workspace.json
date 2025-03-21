@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/2025-03-20_library-summary.md",
+                "file": "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-20_library-summary"
+              "title": "Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,17 +195,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "822040b56ea10546",
+  "active": "0462c76f7c4d4913",
   "lastOpenFiles": [
-    "Reports/Supachai - ฉันเขียนท่ามกลางพายุฝนแล้วส่งถึงเธอในวันที่มีสายรุ่ง.md",
     "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
-    "Reports/2025-03-20_library-summary.md",
-    "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
     "Reports/Teerajet - ผมจะเฝ้ารอฆาตกรที่ร้านหนังสือแห่งความทรงจำ.md",
-    "Tasks/Kanban Board.md",
+    "Reports/Supachai - ฉันเขียนท่ามกลางพายุฝนแล้วส่งถึงเธอในวันที่มีสายรุ่ง.md",
+    "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
     "Tasks/Task - Agile Book Research.md",
-    "conflict-files-obsidian-git.md",
+    "Tasks/Kanban Board.md",
     "Templates/Untitled.md",
+    "Reports/2025-03-20_library-summary.md",
+    "conflict-files-obsidian-git.md",
     "MyFirstspring",
     "Untitled.md",
     "Tasks/Task ของ Teerajet.md",
