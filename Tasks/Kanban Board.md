@@ -23,10 +23,6 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] สร้างคลังใหม่ชื่อ "Team-[หมายเลข]-Workflow"
-- [ ] สร้างโฟลเดอร์: Tasks, Reports, Templates
-	<<<<<<< HEAD
-- [ ] สร้าง README.md พร้อมชื่อและบทบาทของสมาชิกทีม
 - [ ] เพิ่มสมาชิกทีมทั้งหมดเป็นผู้ร่วมงาน
 - [ ] สร้างกระดานที่มีคอลัมน์: To Do, In Progress, Review, Done
 - [ ] สร้างพื้นที่เก็บข้อมูลใหม่ชื่อ "Campus-Workflow-Team-[หมายเลข]"
@@ -37,6 +33,10 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] สร้าง README.md พร้อมชื่อและบทบาทของสมาชิกทีม
+- [ ] สร้างโฟลเดอร์: Tasks, Reports, Templates
+	<<<<<<< HEAD
+- [ ] สร้างคลังใหม่ชื่อ "Team-[หมายเลข]-Workflow"
 - [x] หาหนังสือมาคนละ 1 เล่ม
 - [x] เยี่ยมชมห้องสมุดหรือใช้ทรัพยากรออนไลน์
 - [x] สร้างกระดานที่มีคอลัมน์: To Do, In Progress, Review, Done
