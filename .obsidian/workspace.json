@@ -88,14 +88,14 @@
             "id": "1fcac615a744a351",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
-                "bFile": "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
-                "aRef": ""
+                "file": "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม"
+              "icon": "lucide-file",
+              "title": "Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน"
             }
           }
         ],
@@ -261,11 +261,11 @@
   },
   "active": "1fcac615a744a351",
   "lastOpenFiles": [
-    "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
     "Reports/Chayanisa - แด่หัวใจงดงามที่ถูกหลงลืม.md",
     "Reports/Teerajet - ผมจะเฝ้ารอฆาตกรที่ร้านหนังสือแห่งความทรงจำ.md",
-    "Untitled.md",
+    "Reports/Chatchadaporn -  เอาไว้พรุ่งนี้ค่อยคิดนะ วันนี้ขอนอนก่อนแล้วกัน.md",
     "Tasks/Kanban Board.md",
+    "Untitled.md",
     "Reports/2025-03-20_library-summary.md",
     "Tasks/task.md",
     "conflict-files-obsidian-git.md",
