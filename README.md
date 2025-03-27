@@ -14,5 +14,5 @@
 🔍 **Supachai Thaweekoonpoonsap**  
 นักวิจัยภาคสนาม 
 
-✅ **Chatchadaporn Pumthurean – Quality Assurance**  
+✅ **Chatchadaporn Pumthurean**  
 ประกันคุณภาพ
