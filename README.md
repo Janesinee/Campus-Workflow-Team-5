@@ -1,6 +1,6 @@
-### 🌟 Campus Workflow Team 5  
+### Campus Workflow Team 5  
 
-👥 **Team Members**  
+**Team Members**  
 
 🏅 **Teerajet Chanpha**  
 ผู้จัดการโครงการ  
